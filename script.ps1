@@ -11,3 +11,5 @@ choco install vscode -y
 choco install chromium -y
 
 choco install git -y
+
+choco install phpstorm -y
