@@ -8,7 +8,7 @@ choco install nodejs-lts -y
 
 choco install vscode -y
 
-choco install chromium -y
+choco install googlechrome -y
 
 choco install git -y
 
